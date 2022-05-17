@@ -1,5 +1,5 @@
 import vyper
-import json
+import os, json
 
 filename = 'hello.vy'
 contract_name = 'Hello'
